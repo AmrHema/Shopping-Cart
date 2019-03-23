@@ -1,0 +1,48 @@
+﻿@using Microsoft.AspNet.Identity
+@if (Request.IsAuthenticated)
+{
+    using (Html.BeginForm("LogOff", "Account", FormMethod.Post, new { id = "logoutForm", @class = "navbar-right" }))
+    {
+        @Html.AntiForgeryToken()
+        <ul class="nav navbar-nav navbar-right">
+            <li>
+                @Html.ActionLink("Hello " + User.Identity.GetUserName() + "!", "Index", "Manage", routeValues: null, htmlAttributes: new { title = "Manage" })
+            </li>
+            <li><a href="javascript:document.getElementById('logoutForm').submit()">Log off</a></li>
+        </ul>
+    }
+}
+@if (User.IsInRole("admin"))
+
+{
+    <ul class="nav navbar-nav navbar-left">
+
+        <li class="dropdown">
+            <a class="dropdown-toggle" data-toggle="dropdown" href="/Products/Index">
+                Products
+                <span class="caret"></span>
+            </a>
+            <ul class="dropdown-menu">
+                <li><a href="/Products/ProductDatatable">Products Search</a></li>
+                <li><a href="/Products/Index">Products Index</a></li>
+            </ul>
+        </li>
+        @*<li>
+                @Html.ActionLink("Products", "Index", "Products")
+                <ul>
+                    <li> @Html.ActionLink("Search", "ProductDatatable", "Products", new { @style = "display:none" })</li>
+                    <li> @Html.ActionLink("Products", "Index", "Products", new { @style = "display:none" })</li>
+                </ul>
+            </li>*@
+        <li> @Html.ActionLink("Categories", "Index", "Categories")</li>
+        <li> @Html.ActionLink("User Roles", "Index", "AspNetUserRoles")</li>
+        <li> @Html.ActionLink("Roles", "Index", "AspNetRoles")</li>
+    </ul>
+}
+else
+{
+    <ul class="nav navbar-nav navbar-right">
+        <li><a href="/Account/Register"><span class="glyphicon glyphicon-user"></span> Register</a></li>
+        <li><a href="/Account/Login"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+    </ul>
+}

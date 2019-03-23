@@ -1,0 +1,156 @@
+﻿@model IEnumerable<Chart_Leader.Models.Products>
+
+@{
+    ViewBag.Title = "ProductDatatable";
+}
+
+<h2>ProductDatatable</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table table-bordered table-striped table-responsive" id="tblProducts">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Product_Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Product_Price)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Product_QTY)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Product_Writing_Date)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Product_Description)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Product_Image)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Categories.Cat_Name)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Product_Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Product_Price)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Product_QTY)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Product_Writing_Date)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Product_Description)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Product_Image)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Categories.Cat_Name)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.Product_id }) |
+                    @Html.ActionLink("Details", "Details", new { id = item.Product_id }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.Product_id })
+                </td>
+            </tr>
+        }
+
+    </tbody>
+    <tfoot>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Product_Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Product_Price)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Product_QTY)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Product_Writing_Date)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Product_Description)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Product_Image)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Categories.Cat_Name)
+            </th>
+            <th></th>
+        </tr>
+    </tfoot>
+</table>
+
+
+
+<!-- Bootstrap  -->
+<link href="~/Content/DataTables/css/jquery.dataTables.min.css" rel="stylesheet" />
+<link href="~/Content/DataTables/css/dataTables.bootstrap.min.css" rel="stylesheet" />
+
+@section scripts{
+    <script src="~/Scripts/DataTables/jquery.dataTables.js"></script>
+    <script src="~/Scripts/DataTables/dataTables.bootstrap.min.js"></script>
+    <script>
+
+        $(document).ready(function () {
+            var table = $('#tblProducts').DataTable({
+                //Positioning elements with dataTables dom
+                "dom": '<"top"l>rt<"bottom"ip><"clear">',
+                "fnInitComplete": function (oSettings, json) { addSearchControl(json); }
+            });
+
+            //Start Function Search
+            function addSearchControl(json) {
+                $("#tblProducts thead").append($("#tblProducts thead tr:first").clone());
+                $("#tblProducts thead tr:eq(1) th").each(function (index) {
+                    $(this).replaceWith('<th><input type="text" placeholder="Search' + $(this).text() + '"></input></th>');
+                    var searchControl = $("#tblProducts thead tr:eq(1) th:eq(" + index + ") input");
+                    searchControl.on('keyup change', function () { table.column(index).search(searchControl.val()).draw(); });
+
+                });
+            }
+            //End Function Search
+
+
+            //Footer
+
+            // Setup - add a text input to each footer cell
+            $('#tblProducts tfoot th').each(function () {
+                var title = $(this).text();
+                $(this).html('<input type="text" placeholder="Search' + title + '" />');
+            });
+
+            // Apply the search
+            table.columns().every(function () {
+                var that = this;
+
+                $('input', this.footer()).on('keyup change', function () {
+                    if (that.search() !== this.value) {
+                        that.search(this.value).draw();
+                    }
+                });
+            });
+
+
+
+        });
+    </script>
+}

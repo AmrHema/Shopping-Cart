@@ -1,0 +1,1199 @@
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\ApplicationInsights.config
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\Chart_Leader.dll.config
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\Chart_Leader.dll
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\Chart_Leader.pdb
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\roslyn\csc.exe
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\roslyn\csc.exe.config
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\roslyn\csc.rsp
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\roslyn\csi.exe
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\roslyn\csi.exe.config
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\roslyn\csi.rsp
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\roslyn\System.AppContext.dll
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\roslyn\System.Collections.Immutable.dll
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\roslyn\System.Console.dll
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\roslyn\System.IO.Compression.dll
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\roslyn\System.IO.FileSystem.dll
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\roslyn\System.IO.Pipes.dll
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\roslyn\System.Reflection.Metadata.dll
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\roslyn\System.Security.AccessControl.dll
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\roslyn\System.Security.Claims.dll
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\roslyn\System.ValueTuple.dll
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\roslyn\System.Xml.XPath.dll
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\roslyn\vbc.exe
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\roslyn\vbc.exe.config
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\roslyn\vbc.rsp
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\roslyn\VBCSCompiler.exe
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\roslyn\VBCSCompiler.exe.config
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\Antlr3.Runtime.dll
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\EntityFramework.dll
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\EntityFramework.SqlServer.dll
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\Microsoft.AI.DependencyCollector.dll
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\Microsoft.AI.Web.dll
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\Microsoft.AI.WindowsServer.dll
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\Microsoft.ApplicationInsights.dll
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\Microsoft.Owin.dll
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\Microsoft.Owin.Security.dll
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\Microsoft.Owin.Security.Google.dll
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\Microsoft.Web.Infrastructure.dll
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\Newtonsoft.Json.dll
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\Owin.dll
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\System.Web.Helpers.dll
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\System.Web.Mvc.dll
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\System.Web.Optimization.dll
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\System.Web.Razor.dll
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\System.Web.WebPages.Deployment.dll
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\System.Web.WebPages.dll
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\System.Web.WebPages.Razor.dll
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\WebGrease.dll
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\System.Web.Helpers.xml
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\System.Web.Mvc.xml
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\System.Web.Optimization.xml
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\System.Web.Razor.xml
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\System.Web.WebPages.xml
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\System.Web.WebPages.Deployment.xml
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\System.Web.WebPages.Razor.xml
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\Newtonsoft.Json.xml
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\Antlr3.Runtime.pdb
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\EntityFramework.xml
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\EntityFramework.SqlServer.xml
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\Microsoft.Owin.xml
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\Microsoft.Owin.Security.xml
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\Microsoft.Owin.Security.Google.xml
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\Microsoft.AI.DependencyCollector.xml
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\Microsoft.AI.WindowsServer.xml
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\Microsoft.AI.Web.xml
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\obj\Debug\Chart_Leader.csprojAssemblyReference.cache
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\obj\Debug\Chart_Leader.csproj.CoreCompileInputs.cache
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\obj\Debug\Chart_Leader.csproj.CopyComplete
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\obj\Debug\Chart_Leader.dll
+D:\Videos\MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\obj\Debug\Chart_Leader.pdb
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\ApplicationInsights.config
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\Chart_Leader.dll.config
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\Chart_Leader.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\Chart_Leader.pdb
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\roslyn\csc.exe
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\roslyn\csc.exe.config
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\roslyn\csc.rsp
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\roslyn\csi.exe
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\roslyn\csi.exe.config
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\roslyn\csi.rsp
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\roslyn\Microsoft.Managed.Core.targets
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\roslyn\System.AppContext.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\roslyn\System.Collections.Immutable.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\roslyn\System.Console.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\roslyn\System.IO.Compression.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\roslyn\System.IO.FileSystem.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\roslyn\System.IO.Pipes.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\roslyn\System.Reflection.Metadata.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\roslyn\System.Security.AccessControl.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\roslyn\System.Security.Claims.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\roslyn\System.Security.Principal.Windows.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\roslyn\System.ValueTuple.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\roslyn\System.Xml.XmlDocument.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\roslyn\System.Xml.XPath.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\roslyn\vbc.exe
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\roslyn\vbc.exe.config
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\roslyn\vbc.rsp
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\roslyn\VBCSCompiler.exe
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\roslyn\VBCSCompiler.exe.config
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\Antlr3.Runtime.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\EntityFramework.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\EntityFramework.SqlServer.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\Microsoft.AI.Agent.Intercept.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\Microsoft.AI.DependencyCollector.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\Microsoft.AI.Web.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\Microsoft.AI.WindowsServer.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\Microsoft.ApplicationInsights.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\Microsoft.AspNet.Identity.Core.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\Microsoft.Owin.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\Microsoft.Owin.Security.Cookies.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\Microsoft.Owin.Security.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\Microsoft.Owin.Security.Facebook.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\Microsoft.Owin.Security.Google.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\Microsoft.Owin.Security.OAuth.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\Microsoft.Owin.Security.Twitter.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\Microsoft.Web.Infrastructure.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\Newtonsoft.Json.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\Owin.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\System.Diagnostics.DiagnosticSource.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\System.Web.Helpers.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\System.Web.Mvc.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\System.Web.Optimization.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\System.Web.Razor.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\System.Web.WebPages.Deployment.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\System.Web.WebPages.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\System.Web.WebPages.Razor.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\WebGrease.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\System.Web.Helpers.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\System.Web.Mvc.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\System.Web.Optimization.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\System.Web.Razor.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\System.Web.WebPages.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\System.Web.WebPages.Deployment.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\System.Web.WebPages.Razor.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\Newtonsoft.Json.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\Antlr3.Runtime.pdb
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\EntityFramework.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\EntityFramework.SqlServer.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\Microsoft.AspNet.Identity.Core.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\Microsoft.Owin.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\Microsoft.Owin.Security.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\Microsoft.Owin.Security.Facebook.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\Microsoft.Owin.Security.Cookies.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\Microsoft.Owin.Security.Google.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\Microsoft.Owin.Security.Twitter.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\Microsoft.Owin.Security.OAuth.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\System.Diagnostics.DiagnosticSource.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\Microsoft.AI.DependencyCollector.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\Microsoft.AI.WindowsServer.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\Microsoft.AI.Web.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\obj\Debug\Chart_Leader.csproj.CoreCompileInputs.cache
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\obj\Debug\Chart_Leader.csproj.CopyComplete
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\obj\Debug\Chart_Leader.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\obj\Debug\Chart_Leader.pdb
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\MVC Arabic\ASP.NET MVC\Chart_Leader\Chart_Leader\obj\Debug\Chart_Leader.csprojAssemblyReference.cache
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\ApplicationInsights.config
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\Chart_Leader.dll.config
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\Chart_Leader.dll
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\Chart_Leader.pdb
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\roslyn\csc.exe
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\roslyn\csc.exe.config
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\roslyn\csc.rsp
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\roslyn\csi.exe
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\roslyn\csi.exe.config
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\roslyn\csi.rsp
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\roslyn\Microsoft.Managed.Core.targets
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\roslyn\System.AppContext.dll
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\roslyn\System.Collections.Immutable.dll
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\roslyn\System.Console.dll
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\roslyn\System.IO.Compression.dll
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\roslyn\System.IO.FileSystem.dll
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\roslyn\System.IO.Pipes.dll
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\roslyn\System.Reflection.Metadata.dll
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\roslyn\System.Security.AccessControl.dll
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\roslyn\System.Security.Claims.dll
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\roslyn\System.Security.Principal.Windows.dll
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\roslyn\System.ValueTuple.dll
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\roslyn\System.Xml.XmlDocument.dll
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\roslyn\System.Xml.XPath.dll
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\roslyn\vbc.exe
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\roslyn\vbc.exe.config
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\roslyn\vbc.rsp
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\roslyn\VBCSCompiler.exe
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\roslyn\VBCSCompiler.exe.config
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\Antlr3.Runtime.dll
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\EntityFramework.dll
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\EntityFramework.SqlServer.dll
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\Microsoft.AI.Agent.Intercept.dll
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\Microsoft.AI.DependencyCollector.dll
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\Microsoft.AI.Web.dll
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\Microsoft.AI.WindowsServer.dll
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\Microsoft.ApplicationInsights.dll
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\Microsoft.AspNet.Identity.Core.dll
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\Microsoft.Owin.dll
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\Microsoft.Owin.Security.Cookies.dll
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\Microsoft.Owin.Security.dll
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\Microsoft.Owin.Security.Facebook.dll
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\Microsoft.Owin.Security.Google.dll
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\Microsoft.Owin.Security.OAuth.dll
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\Microsoft.Owin.Security.Twitter.dll
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\Microsoft.Web.Infrastructure.dll
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\Newtonsoft.Json.dll
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\Owin.dll
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\System.Diagnostics.DiagnosticSource.dll
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\System.Web.Helpers.dll
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\System.Web.Mvc.dll
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\System.Web.Optimization.dll
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\System.Web.Razor.dll
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\System.Web.WebPages.Deployment.dll
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\System.Web.WebPages.dll
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\System.Web.WebPages.Razor.dll
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\WebGrease.dll
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\System.Web.Helpers.xml
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\System.Web.Mvc.xml
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\System.Web.Optimization.xml
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\System.Web.Razor.xml
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\System.Web.WebPages.xml
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\System.Web.WebPages.Deployment.xml
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\System.Web.WebPages.Razor.xml
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\Newtonsoft.Json.xml
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\Antlr3.Runtime.pdb
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\EntityFramework.xml
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\EntityFramework.SqlServer.xml
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\Microsoft.AspNet.Identity.Core.xml
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\Microsoft.Owin.xml
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\Microsoft.Owin.Security.xml
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\Microsoft.Owin.Security.Facebook.xml
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\Microsoft.Owin.Security.Cookies.xml
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\Microsoft.Owin.Security.Google.xml
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\Microsoft.Owin.Security.Twitter.xml
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\Microsoft.Owin.Security.OAuth.xml
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\System.Diagnostics.DiagnosticSource.xml
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\Microsoft.AI.DependencyCollector.xml
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\Microsoft.AI.WindowsServer.xml
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\Microsoft.AI.Web.xml
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\obj\Debug\Chart_Leader.csproj.CoreCompileInputs.cache
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\obj\Debug\Chart_Leader.csproj.CopyComplete
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\obj\Debug\Chart_Leader.dll
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\obj\Debug\Chart_Leader.pdb
+D:\برمجة\C#\Khaled Sadany\ASP.NET\Bootstrap Zero\Chart_Leader\Chart_Leader\obj\Debug\Chart_Leader.csprojAssemblyReference.cache
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\ApplicationInsights.config
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\Chart_Leader.dll.config
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\Chart_Leader.dll
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\Chart_Leader.pdb
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\roslyn\csc.exe
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\roslyn\csc.exe.config
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\roslyn\csc.rsp
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\roslyn\csi.exe
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\roslyn\csi.exe.config
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\roslyn\csi.rsp
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\roslyn\System.AppContext.dll
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\roslyn\System.Collections.Immutable.dll
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\roslyn\System.Console.dll
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\roslyn\System.IO.Compression.dll
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\roslyn\System.IO.FileSystem.dll
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\roslyn\System.IO.Pipes.dll
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\roslyn\System.Reflection.Metadata.dll
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\roslyn\System.Security.AccessControl.dll
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\roslyn\System.Security.Claims.dll
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\roslyn\System.ValueTuple.dll
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\roslyn\System.Xml.XPath.dll
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\roslyn\vbc.exe
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\roslyn\vbc.exe.config
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\roslyn\vbc.rsp
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\roslyn\VBCSCompiler.exe
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\roslyn\VBCSCompiler.exe.config
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\Antlr3.Runtime.dll
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\EntityFramework.dll
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\EntityFramework.SqlServer.dll
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\Microsoft.AI.DependencyCollector.dll
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\Microsoft.AI.Web.dll
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\Microsoft.AI.WindowsServer.dll
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\Microsoft.ApplicationInsights.dll
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\Microsoft.Owin.dll
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\Microsoft.Owin.Security.dll
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\Microsoft.Owin.Security.Google.dll
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\Microsoft.Web.Infrastructure.dll
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\Newtonsoft.Json.dll
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\Owin.dll
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\System.Web.Helpers.dll
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\System.Web.Mvc.dll
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\System.Web.Optimization.dll
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\System.Web.Razor.dll
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\System.Web.WebPages.Deployment.dll
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\System.Web.WebPages.dll
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\System.Web.WebPages.Razor.dll
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\WebGrease.dll
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\System.Web.Helpers.xml
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\System.Web.Mvc.xml
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\System.Web.Optimization.xml
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\System.Web.Razor.xml
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\System.Web.WebPages.xml
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\System.Web.WebPages.Deployment.xml
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\System.Web.WebPages.Razor.xml
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\Newtonsoft.Json.xml
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\Antlr3.Runtime.pdb
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\EntityFramework.xml
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\EntityFramework.SqlServer.xml
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\Microsoft.Owin.xml
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\Microsoft.Owin.Security.xml
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\Microsoft.Owin.Security.Google.xml
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\Microsoft.AI.DependencyCollector.xml
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\Microsoft.AI.WindowsServer.xml
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\Microsoft.AI.Web.xml
+D:\Videos\MVC\Chart_Leader\Chart_Leader\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Videos\MVC\Chart_Leader\Chart_Leader\obj\Debug\Chart_Leader.csprojAssemblyReference.cache
+D:\Videos\MVC\Chart_Leader\Chart_Leader\obj\Debug\Chart_Leader.csproj.CoreCompileInputs.cache
+D:\Videos\MVC\Chart_Leader\Chart_Leader\obj\Debug\Chart_Leader.csproj.CopyComplete
+D:\Videos\MVC\Chart_Leader\Chart_Leader\obj\Debug\Chart_Leader.dll
+D:\Videos\MVC\Chart_Leader\Chart_Leader\obj\Debug\Chart_Leader.pdb
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\ApplicationInsights.config
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\Chart_Leader.dll.config
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\Chart_Leader.dll
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\Chart_Leader.pdb
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\roslyn\csc.exe
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\roslyn\csc.exe.config
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\roslyn\csc.rsp
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\roslyn\csi.exe
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\roslyn\csi.exe.config
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\roslyn\csi.rsp
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\roslyn\System.AppContext.dll
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\roslyn\System.Collections.Immutable.dll
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\roslyn\System.Console.dll
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\roslyn\System.IO.Compression.dll
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\roslyn\System.IO.FileSystem.dll
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\roslyn\System.IO.Pipes.dll
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\roslyn\System.Reflection.Metadata.dll
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\roslyn\System.Security.AccessControl.dll
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\roslyn\System.Security.Claims.dll
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\roslyn\System.ValueTuple.dll
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\roslyn\System.Xml.XPath.dll
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\roslyn\vbc.exe
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\roslyn\vbc.exe.config
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\roslyn\vbc.rsp
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\roslyn\VBCSCompiler.exe
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\roslyn\VBCSCompiler.exe.config
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\Antlr3.Runtime.dll
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\EntityFramework.dll
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\EntityFramework.SqlServer.dll
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\Microsoft.AI.DependencyCollector.dll
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\Microsoft.AI.Web.dll
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\Microsoft.AI.WindowsServer.dll
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\Microsoft.ApplicationInsights.dll
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\Microsoft.Owin.dll
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\Microsoft.Owin.Security.dll
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\Microsoft.Owin.Security.Google.dll
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\Microsoft.Web.Infrastructure.dll
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\Newtonsoft.Json.dll
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\Owin.dll
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\System.Web.Helpers.dll
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\System.Web.Mvc.dll
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\System.Web.Optimization.dll
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\System.Web.Razor.dll
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\System.Web.WebPages.Deployment.dll
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\System.Web.WebPages.dll
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\System.Web.WebPages.Razor.dll
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\WebGrease.dll
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\System.Web.Helpers.xml
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\System.Web.Mvc.xml
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\System.Web.Optimization.xml
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\System.Web.Razor.xml
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\System.Web.WebPages.xml
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\System.Web.WebPages.Deployment.xml
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\System.Web.WebPages.Razor.xml
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\Newtonsoft.Json.xml
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\Antlr3.Runtime.pdb
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\EntityFramework.xml
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\EntityFramework.SqlServer.xml
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\Microsoft.Owin.xml
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\Microsoft.Owin.Security.xml
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\Microsoft.Owin.Security.Google.xml
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\Microsoft.AI.DependencyCollector.xml
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\Microsoft.AI.WindowsServer.xml
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\Microsoft.AI.Web.xml
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\obj\Debug\Chart_Leader.csproj.CoreCompileInputs.cache
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\obj\Debug\Chart_Leader.csproj.CopyComplete
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\obj\Debug\Chart_Leader.dll
+D:\Videos\MVC\Building An ECommerce Store Using ASP.NET MVC Framework\Chart_Leader_Session\Chart_Leader\obj\Debug\Chart_Leader.pdb
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\ApplicationInsights.config
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\Chart_Leader.dll.config
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\Chart_Leader.dll
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\Chart_Leader.pdb
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\roslyn\csc.exe
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\roslyn\csc.exe.config
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\roslyn\csc.rsp
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\roslyn\csi.exe
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\roslyn\csi.exe.config
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\roslyn\csi.rsp
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\roslyn\Microsoft.CodeAnalysis.dll
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\roslyn\Microsoft.CSharp.Core.targets
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\roslyn\Microsoft.Managed.Core.targets
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\roslyn\Microsoft.VisualBasic.Core.targets
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\roslyn\System.AppContext.dll
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\roslyn\System.Collections.Immutable.dll
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\roslyn\System.Console.dll
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\roslyn\System.Diagnostics.StackTrace.dll
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\roslyn\System.IO.Compression.dll
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\roslyn\System.IO.FileSystem.dll
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\roslyn\System.IO.FileSystem.Primitives.dll
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\roslyn\System.IO.Pipes.AccessControl.dll
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\roslyn\System.IO.Pipes.dll
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\roslyn\System.Reflection.Metadata.dll
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\roslyn\System.Security.AccessControl.dll
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\roslyn\System.Security.Claims.dll
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\roslyn\System.Security.Cryptography.Encoding.dll
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\roslyn\System.Security.Cryptography.Primitives.dll
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\roslyn\System.Security.Principal.Windows.dll
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\roslyn\System.Text.Encoding.CodePages.dll
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\roslyn\System.ValueTuple.dll
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\roslyn\System.Xml.ReaderWriter.dll
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\roslyn\System.Xml.XmlDocument.dll
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\roslyn\System.Xml.XPath.dll
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\roslyn\System.Xml.XPath.XDocument.dll
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\roslyn\vbc.exe
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\roslyn\vbc.exe.config
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\roslyn\vbc.rsp
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\roslyn\VBCSCompiler.exe
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\roslyn\VBCSCompiler.exe.config
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\Antlr3.Runtime.dll
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\EntityFramework.dll
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\EntityFramework.SqlServer.dll
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\Microsoft.AI.Agent.Intercept.dll
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\Microsoft.AI.DependencyCollector.dll
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\Microsoft.AI.PerfCounterCollector.dll
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\Microsoft.AI.ServerTelemetryChannel.dll
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\Microsoft.AI.Web.dll
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\Microsoft.AI.WindowsServer.dll
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\Microsoft.ApplicationInsights.dll
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\Microsoft.AspNet.Identity.Core.dll
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\Microsoft.AspNet.Identity.Owin.dll
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\Microsoft.Owin.dll
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\Microsoft.Owin.Host.SystemWeb.dll
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\Microsoft.Owin.Security.Cookies.dll
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\Microsoft.Owin.Security.dll
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\Microsoft.Owin.Security.Facebook.dll
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\Microsoft.Owin.Security.Google.dll
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\Microsoft.Owin.Security.OAuth.dll
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\Microsoft.Owin.Security.Twitter.dll
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\Microsoft.Web.Infrastructure.dll
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\Newtonsoft.Json.dll
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\Owin.dll
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\System.Diagnostics.DiagnosticSource.dll
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\System.Web.Helpers.dll
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\System.Web.Mvc.dll
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\System.Web.Optimization.dll
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\System.Web.Razor.dll
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\System.Web.WebPages.Deployment.dll
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\System.Web.WebPages.dll
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\System.Web.WebPages.Razor.dll
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\WebGrease.dll
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\System.Web.Helpers.xml
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\System.Web.Mvc.xml
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\System.Web.Optimization.xml
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\System.Web.Razor.xml
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\System.Web.WebPages.xml
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\System.Web.WebPages.Deployment.xml
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\System.Web.WebPages.Razor.xml
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\Newtonsoft.Json.xml
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\Antlr3.Runtime.pdb
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\EntityFramework.xml
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\EntityFramework.SqlServer.xml
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\Microsoft.AspNet.Identity.Core.xml
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\Microsoft.AspNet.Identity.Owin.xml
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\Microsoft.Owin.xml
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\Microsoft.Owin.Host.SystemWeb.xml
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\Microsoft.Owin.Security.xml
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\Microsoft.Owin.Security.Facebook.xml
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\Microsoft.Owin.Security.Cookies.xml
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\Microsoft.Owin.Security.Google.xml
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\Microsoft.Owin.Security.Twitter.xml
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\Microsoft.Owin.Security.OAuth.xml
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\System.Diagnostics.DiagnosticSource.xml
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\Microsoft.AI.DependencyCollector.xml
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\Microsoft.AI.WindowsServer.xml
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\Microsoft.AI.Web.xml
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\obj\Debug\Chart_Leader.csprojAssemblyReference.cache
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\obj\Debug\Chart_Leader.csproj.CoreCompileInputs.cache
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\obj\Debug\Chart_Leader.csproj.CopyComplete
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\obj\Debug\Chart_Leader.dll
+W:\Chart_Leader_Session\Chart_Leader_Session\Chart_Leader\obj\Debug\Chart_Leader.pdb
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\ApplicationInsights.config
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\Chart_Leader.dll.config
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\Chart_Leader.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\Chart_Leader.pdb
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\roslyn\csc.exe
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\roslyn\csc.exe.config
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\roslyn\csc.rsp
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\roslyn\csi.exe
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\roslyn\csi.exe.config
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\roslyn\csi.rsp
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\roslyn\Microsoft.Managed.Core.targets
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\roslyn\System.AppContext.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\roslyn\System.Collections.Immutable.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\roslyn\System.Console.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\roslyn\System.IO.Compression.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\roslyn\System.IO.FileSystem.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\roslyn\System.IO.Pipes.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\roslyn\System.Reflection.Metadata.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\roslyn\System.Security.AccessControl.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\roslyn\System.Security.Claims.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\roslyn\System.Security.Principal.Windows.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\roslyn\System.ValueTuple.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\roslyn\System.Xml.XmlDocument.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\roslyn\System.Xml.XPath.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\roslyn\vbc.exe
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\roslyn\vbc.exe.config
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\roslyn\vbc.rsp
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\roslyn\VBCSCompiler.exe
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\roslyn\VBCSCompiler.exe.config
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\Antlr3.Runtime.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\EntityFramework.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\EntityFramework.SqlServer.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\Microsoft.AI.Agent.Intercept.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\Microsoft.AI.DependencyCollector.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\Microsoft.AI.Web.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\Microsoft.AI.WindowsServer.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\Microsoft.ApplicationInsights.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\Microsoft.AspNet.Identity.Core.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\Microsoft.Owin.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\Microsoft.Owin.Security.Cookies.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\Microsoft.Owin.Security.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\Microsoft.Owin.Security.Facebook.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\Microsoft.Owin.Security.Google.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\Microsoft.Owin.Security.OAuth.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\Microsoft.Owin.Security.Twitter.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\Microsoft.Web.Infrastructure.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\Newtonsoft.Json.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\Owin.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\System.Diagnostics.DiagnosticSource.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\System.Web.Helpers.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\System.Web.Mvc.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\System.Web.Optimization.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\System.Web.Razor.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\System.Web.WebPages.Deployment.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\System.Web.WebPages.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\System.Web.WebPages.Razor.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\WebGrease.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\System.Web.Helpers.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\System.Web.Mvc.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\System.Web.Optimization.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\System.Web.Razor.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\System.Web.WebPages.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\System.Web.WebPages.Deployment.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\System.Web.WebPages.Razor.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\Newtonsoft.Json.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\Antlr3.Runtime.pdb
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\EntityFramework.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\EntityFramework.SqlServer.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\Microsoft.AspNet.Identity.Core.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\Microsoft.Owin.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\Microsoft.Owin.Security.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\Microsoft.Owin.Security.Facebook.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\Microsoft.Owin.Security.Cookies.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\Microsoft.Owin.Security.Google.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\Microsoft.Owin.Security.Twitter.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\Microsoft.Owin.Security.OAuth.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\System.Diagnostics.DiagnosticSource.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\Microsoft.AI.DependencyCollector.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\Microsoft.AI.WindowsServer.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\Microsoft.AI.Web.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\obj\Debug\Chart_Leader.csprojAssemblyReference.cache
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\obj\Debug\Chart_Leader.csproj.CoreCompileInputs.cache
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\obj\Debug\Chart_Leader.csproj.CopyComplete
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\obj\Debug\Chart_Leader.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\New folder\Chart_Leader\obj\Debug\Chart_Leader.pdb
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\ApplicationInsights.config
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\Chart_Leader.dll.config
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\Chart_Leader.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\Chart_Leader.pdb
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\roslyn\csc.exe
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\roslyn\csc.exe.config
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\roslyn\csc.rsp
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\roslyn\csi.exe
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\roslyn\csi.exe.config
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\roslyn\csi.rsp
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\roslyn\Microsoft.Managed.Core.targets
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\roslyn\System.AppContext.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\roslyn\System.Collections.Immutable.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\roslyn\System.Console.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\roslyn\System.IO.Compression.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\roslyn\System.IO.FileSystem.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\roslyn\System.IO.Pipes.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\roslyn\System.Reflection.Metadata.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\roslyn\System.Security.AccessControl.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\roslyn\System.Security.Claims.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\roslyn\System.Security.Principal.Windows.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\roslyn\System.ValueTuple.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\roslyn\System.Xml.XmlDocument.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\roslyn\System.Xml.XPath.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\roslyn\vbc.exe
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\roslyn\vbc.exe.config
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\roslyn\vbc.rsp
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\roslyn\VBCSCompiler.exe
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\roslyn\VBCSCompiler.exe.config
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\Antlr3.Runtime.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\EntityFramework.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\EntityFramework.SqlServer.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\Microsoft.AI.Agent.Intercept.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\Microsoft.AI.DependencyCollector.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\Microsoft.AI.Web.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\Microsoft.AI.WindowsServer.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\Microsoft.ApplicationInsights.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\Microsoft.AspNet.Identity.Core.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\Microsoft.Owin.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\Microsoft.Owin.Security.Cookies.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\Microsoft.Owin.Security.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\Microsoft.Owin.Security.Facebook.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\Microsoft.Owin.Security.Google.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\Microsoft.Owin.Security.OAuth.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\Microsoft.Owin.Security.Twitter.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\Microsoft.Web.Infrastructure.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\Newtonsoft.Json.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\Owin.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\System.Diagnostics.DiagnosticSource.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\System.Web.Helpers.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\System.Web.Mvc.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\System.Web.Optimization.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\System.Web.Razor.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\System.Web.WebPages.Deployment.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\System.Web.WebPages.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\System.Web.WebPages.Razor.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\WebGrease.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\System.Web.Helpers.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\System.Web.Mvc.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\System.Web.Optimization.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\System.Web.Razor.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\System.Web.WebPages.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\System.Web.WebPages.Deployment.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\System.Web.WebPages.Razor.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\Newtonsoft.Json.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\Antlr3.Runtime.pdb
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\EntityFramework.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\EntityFramework.SqlServer.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\Microsoft.AspNet.Identity.Core.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\Microsoft.Owin.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\Microsoft.Owin.Security.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\Microsoft.Owin.Security.Facebook.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\Microsoft.Owin.Security.Cookies.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\Microsoft.Owin.Security.Google.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\Microsoft.Owin.Security.Twitter.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\Microsoft.Owin.Security.OAuth.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\System.Diagnostics.DiagnosticSource.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\Microsoft.AI.DependencyCollector.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\Microsoft.AI.WindowsServer.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\Microsoft.AI.Web.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\obj\Debug\Chart_Leader.csprojAssemblyReference.cache
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\obj\Debug\Chart_Leader.csproj.CoreCompileInputs.cache
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\obj\Debug\Chart_Leader.csproj.CopyComplete
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\obj\Debug\Chart_Leader.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Chart_Leader\obj\Debug\Chart_Leader.pdb
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\ApplicationInsights.config
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\Chart_Leader.dll.config
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\Chart_Leader.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\Chart_Leader.pdb
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\roslyn\csc.exe
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\roslyn\csc.exe.config
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\roslyn\csc.rsp
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\roslyn\csi.exe
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\roslyn\csi.exe.config
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\roslyn\csi.rsp
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\roslyn\Microsoft.Managed.Core.targets
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\roslyn\System.AppContext.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\roslyn\System.Collections.Immutable.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\roslyn\System.Console.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\roslyn\System.IO.Compression.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\roslyn\System.IO.FileSystem.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\roslyn\System.IO.Pipes.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\roslyn\System.Reflection.Metadata.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\roslyn\System.Security.AccessControl.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\roslyn\System.Security.Claims.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\roslyn\System.Security.Principal.Windows.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\roslyn\System.ValueTuple.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\roslyn\System.Xml.XmlDocument.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\roslyn\System.Xml.XPath.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\roslyn\vbc.exe
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\roslyn\vbc.exe.config
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\roslyn\vbc.rsp
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\roslyn\VBCSCompiler.exe
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\roslyn\VBCSCompiler.exe.config
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\Antlr3.Runtime.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\EntityFramework.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\EntityFramework.SqlServer.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\Microsoft.AI.Agent.Intercept.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\Microsoft.AI.DependencyCollector.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\Microsoft.AI.Web.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\Microsoft.AI.WindowsServer.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\Microsoft.ApplicationInsights.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\Microsoft.AspNet.Identity.Core.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\Microsoft.Owin.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\Microsoft.Owin.Security.Cookies.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\Microsoft.Owin.Security.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\Microsoft.Owin.Security.Facebook.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\Microsoft.Owin.Security.Google.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\Microsoft.Owin.Security.OAuth.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\Microsoft.Owin.Security.Twitter.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\Microsoft.Web.Infrastructure.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\Newtonsoft.Json.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\Owin.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\System.Diagnostics.DiagnosticSource.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\System.Web.Helpers.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\System.Web.Mvc.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\System.Web.Optimization.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\System.Web.Razor.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\System.Web.WebPages.Deployment.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\System.Web.WebPages.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\System.Web.WebPages.Razor.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\WebGrease.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\System.Web.Helpers.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\System.Web.Mvc.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\System.Web.Optimization.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\System.Web.Razor.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\System.Web.WebPages.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\System.Web.WebPages.Deployment.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\System.Web.WebPages.Razor.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\Newtonsoft.Json.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\Antlr3.Runtime.pdb
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\EntityFramework.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\EntityFramework.SqlServer.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\Microsoft.AspNet.Identity.Core.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\Microsoft.Owin.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\Microsoft.Owin.Security.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\Microsoft.Owin.Security.Facebook.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\Microsoft.Owin.Security.Cookies.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\Microsoft.Owin.Security.Google.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\Microsoft.Owin.Security.Twitter.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\Microsoft.Owin.Security.OAuth.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\System.Diagnostics.DiagnosticSource.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\Microsoft.AI.DependencyCollector.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\Microsoft.AI.WindowsServer.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\Microsoft.AI.Web.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\obj\Debug\Chart_Leader.csproj.CoreCompileInputs.cache
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\obj\Debug\Chart_Leader.csproj.CopyComplete
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\obj\Debug\Chart_Leader.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\obj\Debug\Chart_Leader.pdb
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\test\Chart_Leader\obj\Debug\Chart_Leader.csprojAssemblyReference.cache
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\ApplicationInsights.config
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\Chart_Leader.dll.config
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\Chart_Leader.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\Chart_Leader.pdb
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\roslyn\csc.exe
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\roslyn\csc.exe.config
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\roslyn\csc.rsp
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\roslyn\csi.exe
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\roslyn\csi.exe.config
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\roslyn\csi.rsp
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\roslyn\Microsoft.Managed.Core.targets
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\roslyn\System.AppContext.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\roslyn\System.Collections.Immutable.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\roslyn\System.Console.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\roslyn\System.IO.Compression.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\roslyn\System.IO.FileSystem.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\roslyn\System.IO.Pipes.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\roslyn\System.Reflection.Metadata.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\roslyn\System.Security.AccessControl.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\roslyn\System.Security.Claims.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\roslyn\System.Security.Principal.Windows.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\roslyn\System.ValueTuple.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\roslyn\System.Xml.XmlDocument.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\roslyn\System.Xml.XPath.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\roslyn\vbc.exe
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\roslyn\vbc.exe.config
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\roslyn\vbc.rsp
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\roslyn\VBCSCompiler.exe
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\roslyn\VBCSCompiler.exe.config
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\Antlr3.Runtime.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\EntityFramework.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\EntityFramework.SqlServer.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\Microsoft.AI.Agent.Intercept.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\Microsoft.AI.DependencyCollector.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\Microsoft.AI.Web.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\Microsoft.AI.WindowsServer.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\Microsoft.ApplicationInsights.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\Microsoft.AspNet.Identity.Core.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\Microsoft.Owin.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\Microsoft.Owin.Security.Cookies.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\Microsoft.Owin.Security.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\Microsoft.Owin.Security.Facebook.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\Microsoft.Owin.Security.Google.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\Microsoft.Owin.Security.OAuth.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\Microsoft.Owin.Security.Twitter.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\Microsoft.Web.Infrastructure.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\Newtonsoft.Json.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\Owin.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\System.Diagnostics.DiagnosticSource.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\System.Web.Helpers.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\System.Web.Mvc.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\System.Web.Optimization.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\System.Web.Razor.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\System.Web.WebPages.Deployment.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\System.Web.WebPages.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\System.Web.WebPages.Razor.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\WebGrease.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\System.Web.Helpers.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\System.Web.Mvc.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\System.Web.Optimization.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\System.Web.Razor.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\System.Web.WebPages.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\System.Web.WebPages.Deployment.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\System.Web.WebPages.Razor.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\Newtonsoft.Json.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\Antlr3.Runtime.pdb
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\EntityFramework.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\EntityFramework.SqlServer.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\Microsoft.AspNet.Identity.Core.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\Microsoft.Owin.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\Microsoft.Owin.Security.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\Microsoft.Owin.Security.Facebook.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\Microsoft.Owin.Security.Cookies.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\Microsoft.Owin.Security.Google.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\Microsoft.Owin.Security.Twitter.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\Microsoft.Owin.Security.OAuth.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\System.Diagnostics.DiagnosticSource.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\Microsoft.AI.DependencyCollector.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\Microsoft.AI.WindowsServer.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\Microsoft.AI.Web.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\obj\Debug\Chart_Leader.csprojAssemblyReference.cache
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\obj\Debug\Chart_Leader.csproj.CoreCompileInputs.cache
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\obj\Debug\Chart_Leader.csproj.CopyComplete
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\obj\Debug\Chart_Leader.dll
+D:\برمجة\C#\Sayed C#\Sayed Videos\ASP.NET MVC\Leader_Chart_Session_Complete\Github chart\Chart_Leader\obj\Debug\Chart_Leader.pdb

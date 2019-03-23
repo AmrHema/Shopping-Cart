@@ -1,0 +1,90 @@
+﻿@*@model IEnumerable<Chart_Leader.Models.Shopping_Card>*@
+
+@{
+    ViewBag.Title = "Index";
+}
+
+
+@if (ViewBag.Cart.Count == 0)
+{
+    <br />
+    <div id="EmptyDataMsg" class="alert alert-info">
+        <strong>Welcome!</strong> Your shopping cart is currently empty. Let's start shopping
+    </div>
+}
+
+else
+{
+    List<Item> cart = (List<Item>)Session["cart"];
+    <table class="cart-page">
+        @foreach (var item in cart)
+        {
+            <tr>
+                <td><span class="p-name">@item.product.Product_Name</span> </td>
+                <td><span class="p-name">@String.Format("{0:c}", item.product.Product_Price)</span> </td>
+                <td>
+                    <a class="quantity" onclick="Change(this, 1, @item.product.Product_id)">+</a>
+                    <span class="p-name">@item.quantity</span>
+                    @*@Html.TextBox("",item.quantity,new { @class="form-control",type="numeric"})*@
+                    <input type="number" value="@item.quantity" class="form-control" />
+                    <input type="number" value="test" class="form-control" />
+                    <a class="quantity" onclick="Change(this, 0,  @item.product.Product_id)">-</a>
+                    <a class="remove" onclick="Change(this, -1,  @item.product.Product_id)">Remove</a>
+                </td>
+            </tr>
+        }
+        <tr><td>Total: </td><td id="totalPrice" colspan="2">@String.Format("{0:c}", ViewBag.CartTotalPrice)</td></tr>
+    </table>
+    <div class="button">
+        @Html.ActionLink("Clear Cart", "Clear", "Checkout", null, new { @class = "btn btn-default" })
+        @Html.ActionLink("Complete shopping", "Index", "Home", null, new { @class = "btn btn-default" })
+        @Html.ActionLink("Countinue", "Purchase", "Checkout", null, new { @class = "btn btn-info" })
+    </div>
+}
+
+
+@section scripts {
+    <script>
+        function Change(el, type, P_ID) {
+            var data = {
+                'type': type,
+                'P_ID': P_ID
+            };
+            $.ajax({
+                type: 'POST',
+                url: "Checkout/QuanityChange",
+                data: "{ 'type': " + type + ", 'P_ID': " + P_ID + "}",
+                contentType: "application/json; charset=utf-8",
+                success: function (msg) {
+                    if (msg.d == 0) {
+                        el.parentNode.parentNode.remove();
+                    } else {
+                        $(el).siblings('span')[0].innerHTML = msg.d
+                    }
+                    UpdateTotalPrice()
+                },
+                error: function (XMLHttpRequest, textStatus, errorThrown) {
+                    debugger;
+                }
+            });
+        }
+
+        function UpdateTotalPrice() {
+            $.ajax({
+                type: 'GET',
+                url: "Checkout/UpdateTotal",
+                contentType: "application/json; charset=utf-8",
+                success: function (msg) {
+                    if (msg.d == "$0.00") {
+                        location.reload();
+                        return;
+                    }
+
+                    $('#totalPrice').text(msg.d);
+                }
+            })
+        }
+
+
+    </script>
+}

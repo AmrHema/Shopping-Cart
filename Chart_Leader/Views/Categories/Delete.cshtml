@@ -1,0 +1,49 @@
+﻿@model Chart_Leader.Models.Categories
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>Categories</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Cat_Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Cat_Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Cat_Description)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Cat_Description)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Cat_Image)
+        </dt>
+
+        <dd>
+            @*@Html.DisplayFor(model => model.Cat_Image)*@
+            <img src="@Url.Content(Model.Cat_Image)" alter="Image" style="margin:10px" height="200" width="200" id="imagePreview" />
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>

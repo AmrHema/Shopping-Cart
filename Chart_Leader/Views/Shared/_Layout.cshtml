@@ -1,0 +1,115 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    <link href="~/Content/hover.css" rel="stylesheet" />
+    <link href="~/Content/animate.css" rel="stylesheet" />
+    <script src="~/Scripts/Script_Site.js"></script>
+
+  
+
+    @using Chart_Leader.Models;
+</head>
+<body>
+
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar "></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                @Html.ActionLink("Your Shopping", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+            </div>
+            <div class="navbar-collapse collapse  ">
+                <ul class="nav navbar-nav">
+                    <li><a href="/Home/Index" class="active hvr-bounce-in">Home</a></li>
+                    <li><a href="/Home/About" class="   hvr-bounce-in">About</a></li>
+                    <li><a href="/Home/Contact" class="hvr-bounce-in">Contact</a></li>
+                    @if (!Request.IsAuthenticated)
+                    {
+                        <li><a href="/Categories/Index" class="hvr-bounce-in">Categories</a></li>
+                        <li><a href="/Products/Index" class="hvr-bounce-in">Products</a></li>
+                    }
+                </ul>
+
+                @Html.Partial("_LoginPartial")
+            </div>
+        </div>
+    </div>
+    <div class="container body-content">
+
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - My ASP.NET Application</p>
+        </footer>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    <link href="~/Content/themes/base/jquery-ui.min.css" rel="stylesheet" />
+    <script src="~/Scripts/jquery-ui-1.12.1.js"></script>
+    <script src="~/Scripts/notify.min.js"></script>
+    <script src="~/Scripts/jquery.validate.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.1/i18n/jquery-ui-i18n.min.js"></script>
+    <script>
+        $(function () {
+            //$("input:text.date").datepicker(
+            //    {
+            //        dateFormat: "dd/mm/yy",/* dateFormat: "DD, d MM, yy",*/ /*stepMonths: 0,*/ minDate: new Date(),
+            //        changeMonth: true, changeYear: true, yearRange: "-100:+100",//yearRange: "1980:2050",
+            //        showAnim: "scale",
+            //        showOptions: { origin: ["top", "left"] }
+            //    }).addClass("form-control");
+
+            // Start datepicker
+            var options = $.extend(
+                {},                                  // empty object
+                $.datepicker.regional["en"],        // Dynamically
+                {
+                    dateFormat: "dd / mm / yy",minDate: new Date(),// maxDate:"+10D +5M",dateFormat: "DD, d MM, yy",
+                    //stepMonths: 0,    // select current month //numberOfMonths: 3,
+                    changeMonth: true, changeYear: true, yearRange: "1980:2050",// yearRange: "-100:+100",
+                    showButtonPanel: true,// gotoCurrent: true,
+                    showAnim: "scale", //'slideDown'
+                    showOptions: { origin: ["top", "left"] }, showOtherMonths: true, selectOtherMonths: false,
+                    // showOn: "button"  Button Calendar
+                    //showOn: "button", buttonImage: "/Common/calend.png", buttonImageOnly: true,
+                    //buttonText: "Select date",
+                    showWeek: true, firstDay: 1      //show the week of the year
+
+                } // your custom options
+            );
+
+            $("input:text.date").datepicker(options).addClass("form-control");
+
+
+
+            // End datepicker
+
+
+
+            //to modify jquery.validate.js by finding the function date: function (value, element) and put this code in it:
+            $.validator.methods.date = function (value, element) {
+                if ($.browser.webkit) {
+                    var d = new Date();
+                    return this.optional(element) || !/Invalid|NaN/.test(new Date(d.toLocaleDateString(value)));
+                }
+                else {
+                    return this.optional(element) || !/Invalid|NaN/.test(new Date(value));
+                }
+            };
+
+        });
+        $("input:text.date").attr("autocomplete", "off");
+    </script>
+    @RenderSection("scripts", required: false)
+</body>
+</html>

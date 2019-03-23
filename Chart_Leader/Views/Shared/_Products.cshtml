@@ -1,0 +1,32 @@
+﻿@model IEnumerable<Chart_Leader.Models.Products>
+@using Chart_Leader.Helper_Custom;
+
+<div class="container ">
+    <div class="row">
+@foreach (var item in Model)
+{
+    <div class="col-sm-3  ">
+    @Html.Image(item.Product_Image, item.Product_Description, new { @class = "img-thumbnail", style = "width:150px;height:150px;margin-top:20px; cursor:pointer" })
+
+    <div class="caption">
+    <div class="pull-left">
+    <text>
+    @item.Product_Price <text>&nbsp;&nbsp;&nbsp;</text>
+    @item.Product_Name
+    </text>
+    </div>
+    <br />
+    <div>
+        @Html.ActionLink("Details", "Details", "Products", new { id = item.Product_id }, new { @class = "btn btn-primary btn-sm" })
+        @Html.ActionLink("Order Now", "OrderNow", "ShoppingCartItems", new { id = item.Product_id }, new { @class = "btn btn-primary btn-sm" })
+        @Html.ActionLink("Add Chart", "Product", "Home", new { id = item.Product_id }, new { @class = "btn btn-primary btn-sm" })
+
+
+    </div>
+    </div>
+    </div>
+}
+    </div>
+</div>
+
+

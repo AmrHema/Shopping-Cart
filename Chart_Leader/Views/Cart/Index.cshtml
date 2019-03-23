@@ -1,0 +1,161 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<br />
+<br />
+@if (Session["cart"] == null)
+{
+    Response.Redirect("~/Home/Index");
+}
+@if (((List<Item>)Session["cart"]).Count() == 0)
+{
+    <br />
+    <div id="EmptyDataMsg" class="alert alert-info">
+        <strong>Welcome!</strong> Your shopping cart is currently empty. Let's start shopping
+        @Html.ActionLink("Complete shopping", "Index", "Home", null, new { @class = "btn btn-primary" })
+    </div>
+}
+
+else
+{
+    List<Item> cart = (List<Item>)Session["cart"];
+    <table class="table table-hover table-bordered">
+        <thead style="font-size:16pt;">
+        <td><b>Product</b></td>
+        <td><b>Name</b></td>
+        <td><b>Price</b></td>
+        <td><b>Quantity</b></td>
+        <td><b>Operation</b></td>
+        </thead>
+        @for (int i = 0; i < cart.Count; i++)
+        {
+        <tr class="rowProduct">
+            <td><img src="@Url.Content(@cart[i].product.Product_Image) " alt="@cart[i].product.Product_Name" style="max-width:100px;max-height:100px" class="img-responsive img-thumbnail"/></td>
+            <td><span >@cart[i].product.Product_Name</span> </td>
+            <td><span >@String.Format("{0:c}", @cart[i].product.Product_Price)</span> </td>
+            <td>
+                <table>
+                    <tr>
+                        <td>
+                            @Html.TextBox("QTYInput", @cart[i].quantity.ToString(), new { type = "number", min = "0", onchange = "Changeddl(" + cart[i].product.Product_id + ",this)" })
+                        </td>
+                        <td>
+                            @Html.DropDownList("quantity", Enumerable.Range(0, 1000).Select(x => new
+SelectListItem { Text = x.ToString(), Value = x.ToString(), Selected = cart[i].quantity.ToString() == x.ToString() }), new {onchange= "Changeddl(" + cart[i].product.Product_id + ",this)", @class = "form-control", style="30%" })
+                        </td>
+                        <td> <a href="@Url.Action("changeQTY_Add","Cart",new { index = i, id = cart[i].product.Product_id })" class="btn btn-primary btn-sm">+</a></td>
+                        <td>
+                            <span class="p-name">@cart[i].quantity</span>
+                        </td>
+                        <td>
+                            <a href="@Url.Action("changeQTY_Mince","Cart",new { index = i, id = cart[i].product.Product_id },this.Request.Url.Scheme)" class="btn btn-danger btn-sm">-</a>
+                        </td>
+                        <td>
+                            <a href="/Cart/changeQTY_Add/@cart[i].product.Product_id?index= @i" class="btn btn-primary btn-sm">+ a_Link</a>
+
+                        </td>
+                    </tr>
+                </table>
+
+
+
+            </td>
+            <td>
+                <a href="@Url.Action("Remove","Cart",new { index = @i})" a class="badge" style="cursor:pointer;color:#fff;background:#ff0000">Remove</a>
+            </td>
+
+        </tr>
+        }
+        <tr>
+            <td>Total: </td>
+            <td id="totalPrice" colspan="3">
+                @{
+                    var total = ((List<Item>)Session["cart"]).Sum(x => x.quantity * x.product.Product_Price);}
+
+                @String.Format("{0:c}", total)
+            </td>
+        </tr>
+    </table>
+    <div class="button">
+        @Html.ActionLink("Clear Cart", "Clear", "Cart", null, new { @class = "btn btn-default" })
+        @Html.ActionLink("Complete shopping", "Index", "Home", null, new { @class = "btn btn-default" })
+
+        @Html.ActionLink("Countinue", "Purchase", "Checkout", null, new { @class = "btn btn-info" })
+    </div>
+}
+
+@section scripts {
+    <script>
+        function Change(el, type, P_ID) {
+            $.ajax({
+                type: 'POST',
+                url: "Checkout/QuanityChange",
+                data: "{ 'type': " + type + ", 'P_ID': " + P_ID + "}",
+                contentType: "application/json; charset=utf-8",
+                success: function (msg) {
+                    if (msg.d == 0) {
+
+                        //el.parentNode.parentNode.remove();
+                        $(el).parent().parent().remove();
+
+                    } else {
+                        //$(el).siblings('span')[0].innerHTML = msg.d;
+                        $(el).siblings('.p-name').text(msg.d);
+                    }
+                    UpdateTotalPrice()
+                },
+                error: function (XMLHttpRequest, textStatus, errorThrown) {
+                    debugger;
+                }
+            });
+        }
+
+
+
+        function Changeddl(P_ID, el) {
+            $.ajax({
+                type: 'POST',
+                url: "Cart/QuanityChangeddl",
+                data: "{ 'P_ID': " + P_ID + ",'ddlquantity':" + $(el).val() + "}",
+                contentType: "application/json; charset=utf-8",
+                success: function (msg) {
+                    if (msg.d == 0) {
+
+                        //el.parentNode.parentNode.remove();
+                        $(el).parents('.rowProduct').remove();
+
+                    } else {
+                        //$(el).siblings('span')[0].innerHTML = msg.d;
+                        // $(el).siblings('.p-name').text(msg.d);
+                        $(el).parents('tr').find('.p-name').text(msg.d);
+                    }
+                    UpdateTotalPrice()
+                },
+                error: function (XMLHttpRequest, textStatus, errorThrown) {
+                    //debugger;
+                    alert("enter number of quantity");
+                  //  alert(errorThrown);
+                }
+            });
+        }
+
+        function UpdateTotalPrice() {
+            $.ajax({
+                type: 'GET',
+                url: "Cart/UpdateTotal",
+                contentType: "application/json; charset=utf-8",
+                success: function (msg) {
+                    if (msg.d == "$0.00") {
+                        location.reload();
+                        return;
+                    }
+
+                    $('#totalPrice').text(msg.d);
+                }
+            })
+        }
+
+    </script>
+}

@@ -1,0 +1,81 @@
+﻿@model Chart_Leader.Models.Products
+
+@{
+    ViewBag.Title = "Details";
+}
+
+
+
+<div>
+    <h4>Products</h4>
+    <hr />
+    <div class="row">
+        <div class="col-md-offset-2 col-md-4">
+            <dl class="dl-horizontal">
+                <dt>
+                    @Html.DisplayNameFor(model => model.Categories.Cat_Name)
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.Categories.Cat_Name)
+                </dd>
+                <dt>
+                    @Html.DisplayNameFor(model => model.Product_Name)
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.Product_Name)
+                </dd>
+
+                <dt>
+                    @Html.DisplayNameFor(model => model.Product_Price)
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.Product_Price)
+                </dd>
+
+                <dt>
+                    @Html.DisplayNameFor(model => model.Product_Writing_Date)
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.Product_Writing_Date)
+                </dd>
+
+                <dt>
+                    @Html.DisplayNameFor(model => model.Product_Description)
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.Product_Description)
+                </dd>
+
+                <dt>
+                    @Html.DisplayNameFor(model => model.Product_Image)
+                </dt>
+
+                <dd>
+
+                    @Html.Image(Model.Product_Image, "Image", new { @class = "img-thumbnail", style = "width:200px;height:200px" })
+                </dd>
+
+
+
+            </dl>
+        </div>
+        <div class="col-md-4">
+            @using (Html.BeginForm("OrderNow", "ShoppingCartItems"))
+            {
+                <input type="number" value="1" title="Quantity" name="QTY" />
+                <div class="pull-right">
+                    @Html.HiddenFor(x => x.Product_id)
+                    @Html.Hidden("QTY")
+                    <input type="submit" class="btn btn-primary btn-sm" value="Add to Cart" />
+                </div>
+            }
+        </div>
+    </div>
+</div>
+
+

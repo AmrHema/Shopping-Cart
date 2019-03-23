@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="leaderModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Categories">
+    <Key>
+      <PropertyRef Name="Cat_id" />
+    </Key>
+    <Property Name="Cat_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Cat_Name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Cat_Description" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+    <Property Name="Cat_Image" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Products" Relationship="Self.FK_Products_Products" FromRole="Categories" ToRole="Products" />
+  </EntityType>
+  <EntityType Name="Products">
+    <Key>
+      <PropertyRef Name="Product_id" />
+    </Key>
+    <Property Name="Cat_id" Type="Int32" Nullable="false" />
+    <Property Name="Product_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Product_Name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Product_Price" Type="Decimal" Precision="9" Scale="2" Nullable="false" />
+    <Property Name="Product_QTY" Type="Int32" Nullable="false" />
+    <Property Name="Product_Writing_Date" Type="DateTime" Precision="0" />
+    <Property Name="Product_Description" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+    <Property Name="Product_Image" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Categories" Relationship="Self.FK_Products_Products" FromRole="Products" ToRole="Categories" />
+    <NavigationProperty Name="Shopping_Card" Relationship="leaderModel.FK_Shopping_Card_Products" FromRole="Products" ToRole="Shopping_Card" />
+  </EntityType>
+  <Association Name="FK_Products_Products">
+    <End Role="Categories" Type="Self.Categories" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="Products" Type="Self.Products" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Categories">
+        <PropertyRef Name="Cat_id" />
+      </Principal>
+      <Dependent Role="Products">
+        <PropertyRef Name="Cat_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="leaderContext" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Categories" EntityType="Self.Categories" />
+    <EntitySet Name="Products" EntityType="Self.Products" />
+    <AssociationSet Name="FK_Products_Products" Association="Self.FK_Products_Products">
+      <End Role="Categories" EntitySet="Categories" />
+      <End Role="Products" EntitySet="Products" />
+    </AssociationSet>
+    <EntitySet Name="Shopping_Card" EntityType="leaderModel.Shopping_Card" />
+    <AssociationSet Name="FK_Shopping_Card_Products" Association="leaderModel.FK_Shopping_Card_Products">
+      <End Role="Products" EntitySet="Products" />
+      <End Role="Shopping_Card" EntitySet="Shopping_Card" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Shopping_Card">
+    <Key>
+      <PropertyRef Name="TempOrderID" />
+    </Key>
+    <Property Name="TempOrderID" Type="Int32" Nullable="false" />
+    <Property Name="Product_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Product_Name" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="UnitPrice" Type="Decimal" Nullable="false" Precision="19" Scale="4" />
+    <Property Name="Quantity" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Products" Relationship="leaderModel.FK_Shopping_Card_Products" FromRole="Shopping_Card" ToRole="Products" />
+  </EntityType>
+  <Association Name="FK_Shopping_Card_Products">
+    <End Type="leaderModel.Products" Role="Products" Multiplicity="1" />
+    <End Type="leaderModel.Shopping_Card" Role="Shopping_Card" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Products">
+        <PropertyRef Name="Product_id" />
+      </Principal>
+      <Dependent Role="Shopping_Card">
+        <PropertyRef Name="Product_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

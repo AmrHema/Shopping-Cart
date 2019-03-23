@@ -1,0 +1,101 @@
+﻿@model Chart_Leader.Models.Products
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div class="row">
+    <div class="col-md-offset-1 col-md-10">
+        <h4>Products</h4>
+        <hr />
+        <table class="table table-bordered table-hover tblProducts">
+            <tr>
+                <td>
+                    @Html.DisplayNameFor(model => model.Product_Name)
+                </td>
+
+                <td>
+                    @Html.DisplayFor(model => model.Product_Name)
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    @Html.DisplayNameFor(model => model.Product_Price)
+                </td>
+
+                <td>
+                    @Html.DisplayFor(model => model.Product_Price)
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    @Html.DisplayNameFor(model => model.Product_QTY)
+                </td>
+
+                <td>
+                    @Html.DisplayFor(model => model.Product_QTY)
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    @Html.DisplayNameFor(model => model.Product_Writing_Date)
+                </td>
+
+                <td>
+                    @Html.DisplayFor(model => model.Product_Writing_Date)
+                </td>
+            </tr>
+            <tr>
+
+                <td>
+                    @Html.DisplayNameFor(model => model.Product_Description)
+                </td>
+
+                <td>
+                    @Html.DisplayFor(model => model.Product_Description)
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    @Html.DisplayNameFor(model => model.Product_Image)
+                </td>
+
+                <td>
+                    <img src="@Url.Content(Model.Product_Image)" alter="Image" style="margin:10px" height="200" witdh="200" id="imagePreview" />
+
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    @Html.DisplayNameFor(model => model.Categories.Cat_Name)
+                </td>
+
+                <td>
+                    @Html.DisplayFor(model => model.Categories.Cat_Name)
+
+                </td>
+            </tr>
+
+        </table>
+    </div>
+</div>
+<p>
+    @if (User.IsInRole("admin"))
+    {
+        @Html.ActionLink("Edit", "Edit", new { id = Model.Product_id }) <text>| </text>
+        @Html.ActionLink("Back to List", "Index")
+    }
+
+</p>
+
+
+@section scripts
+{
+
+    <script>
+        $('.tblProducts tr:even').addClass("success");
+    </script>
+}

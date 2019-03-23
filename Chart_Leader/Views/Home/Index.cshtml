@@ -1,0 +1,237 @@
+﻿@model IEnumerable<Chart_Leader.Models.Products>
+@using Chart_Leader.Models;
+@{
+    ViewBag.Title = "Index";
+}
+<div id="tstbasket">
+    <a class="basket" id="basket">
+        @{
+            if (Session["cart"] == null)
+            {
+                <span class="txtbasket">Your Basket: </span> <span style="background:#0094ff;padding:10px;color:#fff;border-radius:50%;">0</span>
+
+            }
+            else
+            {
+                List<Item> cart = (List<Item>)Session["cart"];
+                <span class="txtbasket">Your Basket: </span> <span class="lblcount">@cart.Count()</span>
+                <table>
+                    @foreach (var c in cart)
+                    {
+                        <tr><td>@c.quantity x @String.Format("{0:c}", c.product.Product_Name)</td><td>@c.product.Product_Name</td></tr>
+                    }
+                    <tr>
+                        @{var Total = cart.Sum(x => x.quantity * x.product.Product_Price); }
+                        <td>Total: @String.Format("{0:c}", @Total)</td>
+                        <td>@Html.ActionLink("Check Out", "Index", "Cart")</td>
+                    </tr>
+                </table>
+            }
+        }
+
+    </a>
+</div>
+<h2> </h2>
+
+@*@using (Html.BeginForm("Category", "Home", FormMethod.Post, new { id = "category" }))*@
+@using (Ajax.BeginForm("Category", "Home", new AjaxOptions { HttpMethod = "POST", UpdateTargetId = "#products", InsertionMode = InsertionMode.Replace }, new { id = "category" }))
+
+{
+    @Html.DropDownList("catName", new SelectList(new leaderEntities().Categories.ToList(), "Cat_Name", "Cat_Name"), "select All"
+        , new { onchange = "$('#category').submit()", @class = "form-control" })
+}
+<br />
+<br />
+<div class="container">
+
+    <div id="products">
+        <div class="row ">
+            <div class="col-sm-10  text-center">
+                @foreach (var item in Model)
+                {
+                    <div class="col-lg-2 col-md-3 col-sm-3 col-xs-12  text-center img-thumbnail col-centered">
+                        <div style=" margin:5px" class="col-sm-12">
+                            @Html.Image(item.Product_Image, item.Product_Description, new { @class = "img-reponsive center-block hvr-bounce-in ", style = "width:100%;height:150px;" })
+                        </div>
+                        <div class="col-md-12 quantity text-center">
+                            <span><b>Quantity : @item.Product_QTY</b></span>
+                        </div>
+                        <div class="col-md-12 text-center infos wow bounceIn">
+                            <span><b>@item.Product_Name</b></span>
+                        </div>
+                        <div class="col-md-12 text-center infos wow bounceIn">
+                            @*<span><b>Price : @string.Format("{0:c}", item.Product_Price)</b></span>*@
+                            <span><b>Price :  @item.Product_Price.ToString() ج.م</b></span>
+                        </div>
+                        <div class="buttonLinks wow bounceIn">
+                            @Html.ActionLink("Details", "Details", "Products", new { id = item.Product_id }, new { @class = "btn btn-primary ", style = "margin:5px" })
+                        </div>
+                        <div class="buttonLinks wow bounceIn">
+                            @Ajax.ActionLink("Add to Order Ajax", "Buy", "Cart", new { id = item.Product_id },
+new AjaxOptions
+{
+HttpMethod = "GET", // HttpMethod to use, GET or POST
+UpdateTargetId = "tstbasket", // ID of the HTML element to update
+InsertionMode = InsertionMode.Replace, // Replace the existing contents
+LoadingElementDuration=1000
+}, new { @class = "btn btn-success"})
+                        </div>
+                        <div class="buttonLinks wow bounceIn">
+                            @Html.Label("Add to Order Json", new { @class = "btn btn-success", onclick = "BuyProduct(" + item.Product_id + ",this)" })
+                        </div>
+
+                    </div>
+                }
+            </div>
+            @{
+                var countProducts = new leaderEntities().Products.Count();
+            }
+            <div class="col-sm-2">
+                <div class="list-group" style="position:fixed; width:inherit;    max-width:inherit;;display:inline-block">
+                    <a href="/Home/category/?catName=" &&" id="Cat_Name" class="list-group-item" style="margin-bottom:20px">
+                        <span class="glyphicon glyphicon-camera"></span>All Categories<span class="badge"> @countProducts</span>
+                    </a>
+                    @{
+                        List<Categories> cats_ = new leaderEntities().Categories.ToList();
+                        foreach (var item in cats_)
+                        {
+
+                            <a href="/Home/category/?catName=@item.Cat_Name" id="@item.Cat_Name" class="list-group-item" style="margin-bottom:20px">
+                                <span class="glyphicon glyphicon-camera"></span> @item.Cat_Name <span class="badge">@item.Products.Count()</span>
+                            </a>
+                        }
+
+                    }
+
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+@* Start Caressoul *@
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<div class="row">
+    <div class="col-md-8 col-md-offset-2">
+        <div id="demo" class="carousel slide" data-ride="carousel">
+            <ul class="carousel-indicators">
+                <li data-target="#demo" data-slide-to="0" class="active"></li>
+                <li data-target="#demo" data-slide-to="1"></li>
+                <li data-target="#demo" data-slide-to="2"></li>
+            </ul>
+            <div class="carousel-inner" role="listbox">
+                @{int i = 0;}
+                @foreach (var Item2 in (List<Products>)ViewBag.lastProducts)
+                {
+                    i++;
+                    var active = i == 1 ? "active" : "";
+                    <div class="item @active">
+                        @Html.Image(Item2.Product_Image, Item2.Product_Description, new { @class = "img-thumbnail ", style = "min-width:100%;height:600px" })
+                        <div class="carousel-caption">
+                            <h3>Product : @Item2.Product_Name</h3>
+                            <h3>Price : @Item2.Product_Price</h3>
+                            <h3>Quantity : @Item2.Product_QTY</h3>
+                        </div>
+                    </div>
+                }
+            </div>
+            <a class="carousel-control-prev" href="#demo" data-slide="prev">
+                <span class="carousel-control-prev-icon"></span>
+            </a>
+            <a class="carousel-control-next" href="#demo" data-slide="next">
+                <span class="carousel-control-next-icon"></span>
+            </a>
+        </div>
+    </div>
+
+
+</div>
+
+@*<!-- Start section Loading -->
+        <div class="loading">
+            <div class="spinner">
+                <div class="rect1"></div>
+                <div class="rect2"></div>
+                <div class="rect3"></div>
+                <div class="rect4"></div>
+                <div class="rect5"></div>
+            </div>
+        </div>
+        <!-- End section Loading -->
+    </div>*@
+
+
+
+<link href="~/Content/animate.css" rel="stylesheet" />
+@section scripts{
+    <script src="~/Scripts/jquery.unobtrusive-ajax.min.js"></script>
+    <script>
+        $(function () {
+            $(".carousel").carousel({
+                interval: 1000,
+                pause: "hover"
+            });
+            //caching loading
+            $(".loading").fadeOut(1000);
+            $('img').mouseenter(function () { $(this).addClass("wow bounceIn") });
+
+
+            $('.left').click(function () { $.notify("تم اضافة العنصر", "success"); });
+
+
+
+
+        })
+
+        function BuyProduct(P_ID, el) {
+            $.ajax({
+                type: 'POST',
+                url: "Cart/BuyJson",
+                data: "{ 'P_ID': " + P_ID + "}",
+                contentType: "application/json; charset=utf-8",
+                success: function (msg) {
+                    if (msg.success) {
+                        $.notify(msg.d, "success");
+                        $('.lblcount').text(msg.q);
+                        //location.reload(true);
+
+                    } else {
+                        $.notify("Failed ", "warn");
+                    }
+                },
+                error: function (XMLHttpRequest, textStatus, errorThrown) {
+                    //debugger;
+                    alert(errorThrown + " Failed By Amr");
+                }
+            });
+        }
+
+
+
+
+
+
+    </script>
+
+    @* hover css *@
+
+
+    @* wow animate css + wow.js *@
+    <link href="~/Content/hover.css" rel="stylesheet" />
+
+    <script src="~/Scripts/wow.min.js"></script>
+    <script>new WOW().init();</script>
+}
